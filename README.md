@@ -10,7 +10,7 @@
 [downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane-standard.svg
 [downloads-url]: https://npmjs.org/package/eslint-config-sane-standard
 
-#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Happiness Style](https://github.com/hanakin/sane-standard)
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Sane Standard  Style](https://github.com/hanakin/sane-standard)
 
 This module is for advanced users. You probably want to use [`sane-standard`](https://github.com/hanakin/sane-standard) instead :)
 
@@ -50,7 +50,7 @@ You can override settings from the shareable config by adding them directly into
 
 ### Looking for something easier than this?
 
-The easiest way to use JavaScript Happiness Style to check your code is to use the
+The easiest way to use JavaScript Sane Standard Style to check your code is to use the
 [`sane-standard`](https://github.com/hanakin/sane-standard) package. This comes with a global
 Node command line program (`sane-standard`) that you can run or add to your `npm test` script
 to quickly check your style.
@@ -74,8 +74,8 @@ let people know that your code is using the sane-standard style.
 
 ## Learn more
 
-For the full listing of rules, editor plugins, FAQs, and more, visit the main
-[JavaScript Sane Style repo](https://github.com/hanakin/sane-standard).
+For the full listing of rules
+[JavaScript Sane Standard Style repo](https://github.com/hanakin/sane-standard).
 
 ## License
 
