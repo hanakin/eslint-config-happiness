@@ -3,23 +3,23 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 
-[travis-image]: https://img.shields.io/travis/wesleytodd/eslint-config-happiness/master.svg
-[travis-url]: https://travis-ci.org/wesleytodd/eslint-config-happiness
-[npm-image]: https://img.shields.io/npm/v/eslint-config-happiness.svg
-[npm-url]: https://npmjs.org/package/eslint-config-happiness
-[downloads-image]: https://img.shields.io/npm/dm/eslint-config-happiness.svg
-[downloads-url]: https://npmjs.org/package/eslint-config-happiness
+[travis-image]: https://img.shields.io/travis/hanakin/eslint-config-sane/master.svg
+[travis-url]: https://travis-ci.org/hanakin/eslint-config-sane
+[npm-image]: https://img.shields.io/npm/v/eslint-config-sane.svg
+[npm-url]: https://npmjs.org/package/eslint-config-sane
+[downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane.svg
+[downloads-url]: https://npmjs.org/package/eslint-config-sane
 
-#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Happiness Style](https://github.com/JedWatson/happiness)
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Happiness Style](https://github.com/hanakin/sane)
 
-This module is for advanced users. You probably want to use [`happiness`](https://github.com/JedWatson/happiness) instead :)
+This module is for advanced users. You probably want to use [`sane`](https://github.com/hanakin/sane) instead :)
 
-[![js-happiness-style](https://cdn.rawgit.com/JedWatson/happiness/master/badge.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://cdn.rawgit.com/hanakin/sane/master/badge.svg)](https://github.com/hanakin/sane)
 
 ## Install
 
 ```bash
-npm install eslint-config-happiness
+npm install eslint-config-sane
 ```
 
 ## Usage
@@ -32,14 +32,14 @@ official ESLint website.
 To use the JavaScript Happiness Style shareable config, first run this:
 
 ```bash
-npm install eslint-config-happiness eslint-plugin-standard eslint-plugin-promise
+npm install eslint-config-sane eslint-plugin-standard eslint-plugin-promise
 ```
 
 Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": "happiness"
+  "extends": "sane"
 }
 ```
 
@@ -51,32 +51,32 @@ You can override settings from the shareable config by adding them directly into
 ### Looking for something easier than this?
 
 The easiest way to use JavaScript Happiness Style to check your code is to use the
-[`happiness`](https://github.com/JedWatson/happiness) package. This comes with a global
-Node command line program (`happiness`) that you can run or add to your `npm test` script
+[`sane`](https://github.com/hanakin/sane) package. This comes with a global
+Node command line program (`sane`) that you can run or add to your `npm test` script
 to quickly check your style.
 
 ## Badge
 
 Use this in one of your projects? Include one of these badges in your readme to
-let people know that your code is using the happiness style.
+let people know that your code is using the sane style.
 
-[![js-happiness-style](https://cdn.rawgit.com/JedWatson/happiness/master/badge.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://cdn.rawgit.com/hanakin/sane/master/badge.svg)](https://github.com/hanakin/sane)
 
 ```markdown
-[![js-happiness-style](https://cdn.rawgit.com/JedWatson/happiness/master/badge.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://cdn.rawgit.com/hanakin/sane/master/badge.svg)](https://github.com/hanakin/sane)
 ```
 
-[![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://img.shields.io/badge/code%20style-sane-brightgreen.svg)](https://github.com/hanakin/sane)
 
 ```markdown
-[![js-happiness-style](https://img.shields.io/badge/code%20style-happiness-brightgreen.svg)](https://github.com/JedWatson/happiness)
+[![js-sane-style](https://img.shields.io/badge/code%20style-sane-brightgreen.svg)](https://github.com/hanakin/sane)
 ```
 
 ## Learn more
 
 For the full listing of rules, editor plugins, FAQs, and more, visit the main
-[JavaScript Happiness Style repo](https://github.com/JedWatson/happiness).
+[JavaScript Sane Style repo](https://github.com/hanakin/sane).
 
 ## License
 
-MIT. Copyright (c) [Wes todd](http://wesleytodd.com).
+MIT. Copyright (c) Michael Miday.
