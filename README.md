@@ -68,8 +68,8 @@ let people know that your code is using the sane-standard style.
 
 ## Learn more
 
-For the full listing of rules
-[JavaScript Sane Standard Style repo](https://github.com/hanakin/js-sane-standard).
+For the full listing of rules, editor plugins, FAQs, and more, visit the main
+[JavaScript Standard Style repo](http://standardjs.com).
 
 ## License
 
