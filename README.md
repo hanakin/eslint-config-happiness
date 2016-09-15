@@ -10,7 +10,7 @@
 [downloads-image]: https://img.shields.io/npm/dm/eslint-config-sane-standard.svg
 [downloads-url]: https://npmjs.org/package/eslint-config-sane-standard
 
-#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) for [JavaScript Sane Standard  Style](https://github.com/hanakin/js-sane-standard)
+#### An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)
 
 This module is for advanced users. You probably want to use [`js-sane-standard`](https://github.com/hanakin/js-sane-standard) instead :)
 
@@ -29,10 +29,10 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-To use the JavaScript Happiness Style shareable config, first run this:
+To use the shareable config, first run this:
 
 ```bash
-npm install eslint-config-sane-standard eslint-plugin-promise
+npm install eslint-config-sane-standard
 ```
 
 Then, add this to your .eslintrc file:
@@ -64,12 +64,6 @@ let people know that your code is using the sane-standard style.
 
 ```markdown
 [![js-sane-standard-style](https://cdn.rawgit.com/hanakin/sane-standard/master/badge.svg)](https://github.com/hanakin/js-sane-standard)
-```
-
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
-
-```markdown
-[![js-sane-standard-style](https://img.shields.io/badge/code%20style-js-sane-standard-brightgreen.svg)](https://github.com/hanakin/js-sane-standard)
 ```
 
 ## Learn more
